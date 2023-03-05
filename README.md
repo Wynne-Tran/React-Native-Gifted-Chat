@@ -13,4 +13,5 @@
 - Install all dependencies
 - Create InChatFileTransfer.tsx, InChatViewFile.tsx
 - Update App.ts
-[viewfile.webm](https://user-images.githubusercontent.com/63073395/222936528-93bcd468-12be-4df7-acbd-e987f3c48420.webm)
+
+[StartApp.webm](https://user-images.githubusercontent.com/63073395/222936528-93bcd468-12be-4df7-acbd-e987f3c48420.webm)

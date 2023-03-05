@@ -1,7 +1,7 @@
 import React from 'react'
 import { Text, Platform, SafeAreaView,} from 'react-native'
 
-export function NavBar() {
+const NavBar = () => {
   if (Platform.OS === 'web') {
     return null
   }
@@ -16,3 +16,5 @@ export function NavBar() {
     </SafeAreaView>
   )
 }
+
+export default NavBar;
